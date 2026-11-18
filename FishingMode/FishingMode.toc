@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: FishingMode
+## Notes: /fishing toggles fishing mode: equips your rod, one key to cast, click the bobber and loot.
+## SavedVariables: FishingModeDB
+
+FishingMode.lua
