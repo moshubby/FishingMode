@@ -1,5 +1,7 @@
 ## Interface: 16001
 ## Title: FishingMode
+## Version: 1.0.0
+## Author: moshubby
 ## Notes: /fishing toggles fishing mode: equips your rod, one key to cast, click the bobber and loot.
 ## SavedVariables: FishingModeDB
 
